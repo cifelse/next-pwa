@@ -1,7 +1,6 @@
 {
-  "id": 1,
-  "name": "PWA",
-  "short_name": "PWA",
+  "name": "TikTok",
+  "short_name": "TikTok",
   "icons": [
     {
       "src": "/icons/android-chrome-192x192.png",
