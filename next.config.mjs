@@ -16,6 +16,7 @@ const withPWA = withPWAInit({
 const nextConfig = {
   output: "export",
   basePath: "/next-pwa",
+  assetPrefix: '/next-pwa/',
   images: {
     unoptimized: true,
   },
