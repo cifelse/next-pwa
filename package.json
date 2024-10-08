@@ -1,0 +1,29 @@
+{
+  "name": "next-pwa",
+  "version": "0.1.0",
+  "description": "Next.js Progressive Web App template repository.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "14.2.14"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  },
+  "keywords": ["next", "pwa", "next-pwa"],
+  "author": "Louis Lemsic",
+  "license": "MIT"
+}
