@@ -1,0 +1,71 @@
+{
+    "name": "Next.js PWA",
+    "description": "Welcome to the Next.js Progressive Web App template repository!",
+    "short_name": "NextPWA",
+    "icons": [
+      {
+        "src": "/icons/maskable.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/android-chrome-384x384.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ],
+    "theme_color": "#271016",
+    "background_color": "#271016",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "screenshots": [
+      {
+        "src": "/screenshots/1.webp",
+        "sizes": "1080x1920",
+        "type": "image/webp",
+        "form_factor": "narrow",
+        "label": "Be the first to discover."
+      },
+      {
+        "src": "/screenshots/2.webp",
+        "sizes": "1080x1920",
+        "type": "image/webp",
+        "form_factor": "narrow",
+        "label": "Transform your look with the Cartoon Me Effect."
+      },
+      {
+        "src": "/screenshots/3.webp",
+        "sizes": "1080x1920",
+        "type": "image/webp",
+        "form_factor": "narrow",
+        "label": "Manage screen time with your family."
+      },
+      {
+        "src": "/screenshots/4.webp",
+        "sizes": "1080x1920",
+        "type": "image/webp",
+        "form_factor": "narrow",
+        "label": "Share videos with your favourite person."
+      },
+      {
+        "src": "/screenshots/5.webp",
+        "sizes": "1080x1920",
+        "type": "image/webp",
+        "form_factor": "narrow",
+        "label": "Join #CarTok today."
+      }
+    ]
+  }
